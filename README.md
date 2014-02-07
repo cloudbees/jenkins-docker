@@ -1,3 +1,7 @@
+# NOTE: not ready yet. 
+
+Docker registry is not working correctly with github groups at this time - so please be patient!
+
 # Jenkins in Docker
 
 You can run jenkins in docker: 
